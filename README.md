@@ -1,4 +1,4 @@
-# 🛡️ Intrusion Detection System using Machine Learning
+# 🛡️ Intrusion Detection System using Random Forest
 
 A machine learning-based Intrusion Detection System (IDS) developed to classify network traffic as normal or malicious using the **Random Forest Classifier**. The project focuses on data preprocessing, model training, performance evaluation, and feature importance analysis to improve network security.
 
